@@ -2,7 +2,7 @@
 
 ## Description
 
-This Bash script automates the process of joining MP4 files in groups of three using ffmpeg. It's particularly useful for combining multiple video segments into longer videos without re-encoding, which preserves the original quality.
+This Bash script automates the process of joining MP4 files in groups using ffmpeg. It's particularly useful for combining multiple video segments into longer videos without re-encoding, which preserves the original quality.
 
 ## Features
 
